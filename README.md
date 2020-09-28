@@ -1,4 +1,4 @@
-###Step-I
+###Step-I:
 Create test.py. In test.py, add the header file and appplication and a This is Test message.
 
 ###Step-II:
@@ -9,3 +9,6 @@ Create main.py and import sys package. Define the main function. Create and call
 
 ###Step-IV:
 Create model.py and use eval() function to evaluate the expressions.
+
+###Step-V:
+Create controller.py which will make the calculator performs actions in response to user events.
