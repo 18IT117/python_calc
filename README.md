@@ -1,4 +1,1 @@
-#### Step-1:
-Create test.py and import sys package. Now import QApplication, QLabel and Qwidget into test.py from PyQt5.QtWidgets. Then, make an application using QApplication()
-Use QWidget() to give the dimensions of the window as per requirements.
-Print a This is Test message (For checking purpose) and then end the window using show().
+Create view.py, import Qt, QMainWindow, QLineEdit, QGridLayout, QPushButton, QVBoxLayout and Qwidget into test.py from PyQt5.QtWidgets. Construct class GUI which calls constructor of QMainWindow. Use different widgets and layout functions to define the calculator's look. Create a display bar at the top for showing the entered digits in a calculator. Then, define position of each and every digit in the calculator layout.
