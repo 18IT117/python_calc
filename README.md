@@ -6,3 +6,6 @@ Create view.py, import Qt, QMainWindow, QLineEdit, QGridLayout, QPushButton, QVB
 
 ###Step-III:
 Create main.py and import sys package. Define the main function. Create and call an instance of QApplication. Show the GUI using GUI() and show() methods.
+
+###Step-IV:
+Create model.py and use eval() function to evaluate the expressions.
